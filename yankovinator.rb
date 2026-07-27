@@ -8,7 +8,7 @@ class Yankovinator < Formula
   desc "Convert songs into parodies with theme-based constraints using Ollama"
   homepage "https://github.com/shyamalschandra/Yankovinator"
   url "https://github.com/shyamalschandra/Yankovinator/releases/download/v1.06.7/yankovinator-universal.tar.gz"
-  sha256 ""'ff62ade7e0f819240ddf35570ba89294a559bf1a4981dee77ad16430cb74fab9'""
+  sha256 "ff62ade7e0f819240ddf35570ba89294a559bf1a4981dee77ad16430cb74fab9"
   version "1.06.7"
   license :cannot_represent
 
